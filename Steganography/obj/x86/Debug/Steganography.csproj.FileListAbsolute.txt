@@ -1,0 +1,16 @@
+C:\Projects\Steganography\Steganography\bin\Debug\Steganography.exe.config
+C:\Projects\Steganography\Steganography\bin\Debug\Steganography.exe
+C:\Projects\Steganography\Steganography\bin\Debug\Steganography.pdb
+C:\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.csproj.AssemblyReference.cache
+C:\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.Steganography.resources
+C:\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+C:\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.cache
+C:\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.csproj.CoreCompileInputs.cache
+C:\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.exe
+C:\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.WelcomeScreen.resources
+C:\Projects\Steganography\Steganography\bin\Debug\Steganography.exe.manifest
+C:\Projects\Steganography\Steganography\bin\Debug\Steganography.application
+C:\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.exe.manifest
+C:\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.application
